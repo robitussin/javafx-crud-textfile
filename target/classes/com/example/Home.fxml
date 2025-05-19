@@ -115,7 +115,6 @@
                   <TableColumn fx:id="statuscol" prefWidth="63.6666259765625" text="status" />
               </columns>
             </TableView>
-            <Button fx:id="transactionsbtn" layoutX="518.0" layoutY="311.0" mnemonicParsing="false" onAction="#gototransactions" text="Transactions" />
             <ChoiceBox fx:id="statuschoicebox" layoutX="89.0" layoutY="160.0" prefWidth="150.0" />
       </children>
     </AnchorPane>
