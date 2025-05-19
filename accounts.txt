@@ -2,3 +2,4 @@ abc,def,05-18-2025,Active
 elizer,password,05-18-2025,Active
 rona,pass123,05-18-2025,Active
 aa,ww,05-19-2025,Active
+aa,bb,05-19-2025,Inactive
